@@ -1,0 +1,106 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.heroimage {
+    display:table;
+    width:100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9) ), url('https://i.imgur.com/mdpXEYp.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    height:600px;
+}
+
+.mynavigation {display: block; background-color: rgba(46,17,20,.9);}
+
+.menuul {
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+}
+
+.menuli {
+  display: inline;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+  color:white;
+  padding: 7px;
+  font-family: 'Farro', sans-serif;
+}
+
+li a {text-decoration: none; color: white;}
+
+li a:hover {background-color: #ADADAD; color: rgba(46,17,20,.9);}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: #F09A9D; /* Red */
+  }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  body {
+    background-color: #F5CF8E; /* Yellow */
+  }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  body {
+    background-color: #B2D6FF; /* Blue */
+  }
+}

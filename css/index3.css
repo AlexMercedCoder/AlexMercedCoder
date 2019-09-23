@@ -1,0 +1,152 @@
+.mynavigation {display: block; background-color: rgba(46,17,20,.9);}
+
+.menuul {
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+}
+
+.menuli {
+  display: inline;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 25px;
+  color:white;
+  padding: 7px;
+  font-family: 'Farro', sans-serif;
+}
+
+li a {text-decoration: none; color: white;}
+
+li a:hover {background-color: #ADADAD; color: rgba(46,17,20,.9);}
+
+h1 {font-size: 60px; font-family: 'Barriecito', cursive; color: rgba(46,17,20,.9);}
+
+.heroimage {
+    display:table;
+    width:100%;
+    background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9) ), url('https://i.imgur.com/mdpXEYp.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    height:700px;
+}
+
+.textbox1 {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(46,17,20,.75); color: white;
+  padding: 3em;
+  width: 30%;
+}
+
+.textbox2 {
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(46,17,20,.75); color: white;
+  padding: 3em;
+  width: 30%;
+}
+
+.container {  
+  position: relative;
+  text-align: center;
+  color: white;}
+
+ h3 {font-size: 25px; text-transform: uppercase; background-color: #ADADAD; color: rgba(46,17,20,.9); margin: 5px;}
+
+ p {font-size: 16px; text-align: left; line-height: 20px; margin: 5px; padding: 5px; font-family: 'Muli', sans-serif;}
+
+ footer {background-color: #ADADAD; color: rgba(46,17,20,.9);}
+
+ footer a {color: rgba(46,17,20,.9); text-decoration: none;}
+
+ .column1 {width:45%; float: left; padding:5px; text-align: center; vertical-align: center;}
+
+ .column2 {width:45%; float: left; padding:5px; text-align: center; vertical-align: center;}
+
+ h5 {background-color: rgba(46,17,20,.9); color: white; text-transform: uppercase;}
+
+ .textbox3 {visibility:hidden; display: none;}
+
+ @media only screen and (max-width: 960px) {
+
+.mynavigation {visibility: hidden; display: none;}
+
+.menuul {
+  visibility: hidden;
+}
+
+.menuli {
+  visibility: hidden;
+}
+
+li a {text-decoration: none; color: white;}
+
+li a:hover {background-color: #ADADAD; color: rgba(46,17,20,.9);}
+
+h1 {font-size: 40px;text-align: center; font-family: 'Barriecito', cursive; color: rgba(46,17,20,.9);}
+
+.heroimage {
+    content: "";
+    clear: both;
+    display: none;
+    background: linear-gradient( rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9) )
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    visibility: hidden;
+}
+
+.textbox1 {
+  display: initial;
+  background-color: rgb(46,17,20); color: white;
+  padding: 3em;
+}
+
+.textbox2 {
+  display: initial;
+  background-color: rgb(46,17,20); color: white;
+  padding: 3em;
+}
+
+.textbox3 {
+  visibility: visible;
+  display: block;
+  background-color: rgb(46,17,20); color: white;
+  padding: 1em;
+}
+
+.container { position: initial; }
+
+ h3 {font-size: 18px; text-transform: uppercase; background-color: #ADADAD; color: rgba(46,17,20,.9); margin: 5px;}
+
+ p {font-size: 15px; text-align: left; line-height: 17px; margin: 5px; padding: 5px; font-family: 'Muli', sans-serif;}
+
+ footer {background-color: #ADADAD; color: rgba(46,17,20,.9);}
+
+ footer a {color: rgba(46,17,20,.9); text-decoration: none;}
+
+ .column1 {width:45%; float: left; padding:5px; text-align: center; vertical-align: center;}
+
+ .column2 {width:45%; float: left; padding:5px; text-align: center; vertical-align: center;}
+
+ h5 {background-color: rgba(46,17,20,.9); color: white; text-transform: uppercase;}
+ 
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+} 
+.group:after {
+  clear: both;
+}
+.group {
+  zoom: 1; /* For IE 6/7 (trigger hasLayout) */
+}
+}
+

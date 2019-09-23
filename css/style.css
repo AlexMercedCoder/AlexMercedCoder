@@ -1,0 +1,11 @@
+.navlinks { color: white; text-decoration: none; text-transform: uppercase; }
+
+.navlinks:hover { background-color: #D3AC2B;color: white; text-decoration: none; text-transform: uppercase; }
+
+.skill-list {background-color: #CBD0D8; color: #333D51; text-align: center;}
+
+.bluegray {background-color: #333D51; color: white;}
+
+.yellowblue {background-color: #D3AC2B; color: #333D51;}
+
+.whitetext {color:white;}
