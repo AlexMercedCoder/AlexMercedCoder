@@ -20,7 +20,7 @@ li a {text-decoration: none; color: white;}
 
 li a:hover {background-color: #ADADAD; color: rgba(46,17,20,.9);}
 
-h1 {font-size: 60px; font-family: 'Barriecito', cursive; color: rgba(46,17,20,.9);}
+h1 {font-size: 60px; font-family: 'Roboto', sans-serif; color: rgba(46,17,20,.9);}
 
 .heroimage {
     display:table;
