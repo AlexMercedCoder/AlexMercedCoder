@@ -1,10 +1,10 @@
 body { background-color: midnightblue; font-family: 'Hind Guntur', sans-serif;}
 
-header {font-size: 3em; color: white; text-align: center;}
+header {font-size: 2em; color: white; text-align: center; margin: 0;}
 
 main { display: flex; flex-flow: wrap; flex-direction: column; align-content: center;}
 
-main div { background-color: cadetblue; border-radius: 10px; margin: 10px; padding: 20px 20px; height: 70px;
+main div { background-color: cadetblue; border-radius: 10px; margin: 0; padding: 20px 20px; height: 70px;
             font-size: 1.3em; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             text-align: center; text-transform: uppercase; border: 5px solid white;
         }
@@ -24,12 +24,17 @@ a {color: white; text-decoration: none;}
 
 a:hover {color: cadetblue; text-decoration: none;}
 
+h1 {font-size: 3em; margin: 0;line-height: 150%;}
+h2 {font-size: 1.8em; margin: 0; line-height: 150%; font-style: italic;}
 
-iframe {border-radius: 20px; border: 5px solid white;}
+
+iframe {border-radius: 20px; border: 5px solid white; margin: 0;}
 
 @media only screen and (max-width: 600px) {
     main {flex-direction: column;}
     header {font-size: 2em;}
     main a{width: 80%; padding-top: 40%px; height: 55px; font-size: .9em;}
+    h1 {font-size: 2em; margin: 0;line-height: 150%;}
+    h2 {font-size: 1.2em; margin: 0; line-height: 150%; font-style: italic;}
   }
 
