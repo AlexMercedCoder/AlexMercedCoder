@@ -10,7 +10,7 @@
   display: inline;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 25px;
+  font-size: 22px;
   color:white;
   padding: 7px;
   font-family: 'Farro', sans-serif;
@@ -31,6 +31,8 @@ h1 {font-size: 60px; font-family: 'Roboto', sans-serif; color: rgba(46,17,20,.9)
     background-position: center; 
     height:700px;
 }
+
+.heroimage a {color: white;}
 
 .textbox1 {
   position: absolute;

@@ -1,4 +1,4 @@
-body { background-color: midnightblue;}
+body { background-color: midnightblue; font-family: 'Hind Guntur', sans-serif;}
 
 header {font-size: 3em; color: white; text-align: center;}
 
@@ -6,14 +6,30 @@ main { display: flex; flex-flow: wrap; flex-direction: column; align-content: ce
 
 main div { background-color: cadetblue; border-radius: 10px; margin: 10px; padding: 20px 20px; height: 70px;
             font-size: 1.3em; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            text-align: center; text-transform: uppercase;
+            text-align: center; text-transform: uppercase; border: 5px solid white;
         }
 
+main div:hover { background-color: midnightblue; border: 5px solid cadetblue; color: cadetblue;
+      }
+
+main a { background-color: cadetblue; border-radius: 10px; margin: 10px; padding: 10px 10px; height: 70px;
+        font-size: 1.3em; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center; text-transform: uppercase; border: 5px solid white; display: block;
+    }
+
+main a:hover { background-color: midnightblue; border: 5px solid cadetblue; color: cadetblue;
+  }
+
 a {color: white; text-decoration: none;}
+
+a:hover {color: cadetblue; text-decoration: none;}
+
+
+iframe {border-radius: 20px; border: 5px solid white;}
 
 @media only screen and (max-width: 600px) {
     main {flex-direction: column;}
     header {font-size: 2em;}
-    main div{width: 100%; padding-top: 30px; height: 75px;}
+    main a{width: 80%; padding-top: 40%px; height: 55px; font-size: .9em;}
   }
 
