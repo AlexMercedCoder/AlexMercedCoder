@@ -1,4 +1,6 @@
-body { background-color: midnightblue; font-family: 'Hind Guntur', sans-serif;}
+* {margin: 0; padding: 0;}
+
+body { background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%); font-family: 'Hind Guntur', sans-serif; text-align: center;}
 
 header {font-size: 2em; color: white; text-align: center; margin: 0;}
 
@@ -20,12 +22,14 @@ main a { background-color: cadetblue; border-radius: 10px; margin: 10px; padding
 main a:hover { background-color: midnightblue; border: 5px solid cadetblue; color: cadetblue;
   }
 
-a {color: white; text-decoration: none;}
+a {color: white; text-decoration: none; font-weight: bolder; margin: 50px; display: block;}
+
+.resume { background-color: white; border-radius: 50%; color: midnightblue; padding: 5px; box-shadow: 5px 5px gray; margin: 15px auto; width: 60%;}
 
 a:hover {color: cadetblue; text-decoration: none;}
 
-h1 {font-size: 3em; margin: 0;line-height: 150%;}
-h2 {font-size: 1.8em; margin: 0; line-height: 150%; font-style: italic;}
+h1 {font-size: 1.5em; margin: 0;line-height: 150%;}
+h2 {font-size: 1em; margin: 0; line-height: 150%; font-style: italic;}
 
 
 iframe {border-radius: 20px; border: 5px solid white; margin: 0;}
@@ -34,7 +38,7 @@ iframe {border-radius: 20px; border: 5px solid white; margin: 0;}
     main {flex-direction: column;}
     header {font-size: 2em;}
     main a{width: 80%; padding-top: 40%px; height: 55px; font-size: .9em;}
-    h1 {font-size: 2em; margin: 0;line-height: 150%;}
+    h1 {font-size: 1.8em; margin: 0;line-height: 100%; margin: 20px;}
     h2 {font-size: 1.2em; margin: 0; line-height: 150%; font-style: italic;}
   }
 
