@@ -1,0 +1,28 @@
+* {margin: 0; padding: 0;}
+
+body {color: midnightblue; text-align: center; padding: 10px;}
+
+.bg {background-color: midnightblue; color: white;}
+
+.vid {border-radius: 25px; margin: 20px;}
+
+.curve{border-radius: 30px;}
+
+.pad {padding: 6px;}
+
+.mar {margin: 10px;}
+
+h4 {margin: 5px; padding: 0; color: #610000; border: 2px dotted midnightblue}
+
+.butco {background-color: white; color: midnightblue;}
+
+.linkbox {display: flex; justify-content: center; flex-wrap: wrap;}
+
+main {margin: 20px auto;}
+
+@media only screen and (max-width: 600px) {
+    .brand-logo {
+       text-align: center;
+    }
+  }
+

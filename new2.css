@@ -1,0 +1,52 @@
+* {margin: 0; padding: 0; font-family: 'Prompt', sans-serif; box-sizing: border-box;}
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("code.png");
+
+    /* Set a specific height */
+    width: 100%;
+    height: 100%;
+  
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+
+}
+
+nav {display: flex; justify-content: space-around; background-color: rgba(68, 6, 117, 0.8); width: 100%; flex-wrap: wrap;}
+
+nav a {  color: white; padding: 10px; text-transform: uppercase; text-decoration: none; transition-property: color, background-color;}
+
+nav a:hover{color: rgba(68, 6, 117, 0.8); background-color: white;}
+
+header h1 {display: block; margin: 40px auto; color: white; font-size: 400%; font-family: 'Cinzel', serif;}
+
+header h2 {display: block; color: white; margin: 40px auto; font-size: 300%;}
+
+.herobutton {display: block; background-color: white; color: rgba(68, 6, 117, 0.8); text-transform: uppercase; text-decoration: none;
+            border-radius: 15px; padding: 10px; margin: 10px  auto; transition-property: color, background-color; max-width: 250px; border: 2px solid #AB9E00;
+            font-weight: bolder;}
+
+.herobutton:hover {color: white; background-color: rgba(68, 6, 117, 0.8);} 
+
+.brand {display: flex; justify-content: center; align-content: center; font-size: 130%; width: 80%; margin: 30px auto; text-align: center;}
+
+.proj {font-size: 200%; width: 100%; padding: 10px 0; margin: auto; 
+    background-color: rgba(68, 6, 117, 0.8); color: white; text-align: center;}
+
+.cardbody {display: flex; flex-direction: column; width: 300px; border: 2px solid grey; margin: 0; padding: 0; margin: 20px 0;}
+
+.cardbody img {max-width: 300px; height: 246px; margin: 0;}
+
+main {display: flex; flex-wrap: wrap; width: 90%; justify-content: space-around; margin: 20px auto;}
+
+.apptitle {background-color: rgba(68, 6, 117, 0.8); color: white; margin: 0; padding: 10px;}
+
+.link {display: flex; justify-content: space-around;}
+
+.link a {color: rgba(68, 6, 117, 0.8); text-decoration: none; display: block; padding: 5px;}
+
+.link a:hover {background-color: maroon; color: white;}
