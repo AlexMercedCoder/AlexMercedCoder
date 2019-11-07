@@ -16,9 +16,13 @@ header {
 
 }
 
-nav {display: flex; justify-content: space-around; background-color: rgba(68, 6, 117, 0.8); width: 100%; flex-wrap: wrap;}
+nav {display: flex; justify-content: space-around; background-color: rgba(68, 6, 117, 0.8); width: 100%; flex-wrap: wrap; color: white;}
 
-nav a {  color: white; padding: 10px; text-transform: uppercase; text-decoration: none; transition-property: color, background-color;}
+.mobilesand {padding: 10px; text-align: left ; font-size: 1.25em; 
+            background-color: rgba(68, 6, 117, 0.8); width: 100%; 
+            color: white; display: none;}
+
+nav a {  color: white; padding: 10px; text-transform: uppercase; text-decoration: none; transition-property: color,}
 
 nav a:hover{color: rgba(68, 6, 117, 0.8); background-color: white;}
 
@@ -50,3 +54,14 @@ main {display: flex; flex-wrap: wrap; width: 90%; justify-content: space-around;
 .link a {color: rgba(68, 6, 117, 0.8); text-decoration: none; display: block; padding: 5px;}
 
 .link a:hover {background-color: maroon; color: white;}
+
+@media only screen and (max-width: 600px) {
+
+    .mobilesand {display: block;}
+
+    nav {display: none; flex-direction: column; justify-content: center;}
+
+    nav a {display: block;}
+
+
+  }
