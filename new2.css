@@ -22,17 +22,26 @@ nav {display: flex; justify-content: space-around; background-color: rgba(68, 6,
             background-color: rgba(68, 6, 117, 0.8); width: 100%; 
             color: white; display: none;}
 
-nav a {  color: white; padding: 10px; text-transform: uppercase; text-decoration: none; transition-property: color,}
+nav a {  color: white; padding: 10px; text-transform: uppercase; text-decoration: none; transition: background-color .5s, color .5s;}
 
 nav a:hover{color: rgba(68, 6, 117, 0.8); background-color: white;}
 
-header h1 {display: block; margin: 40px auto; color: white; font-size: 400%; font-family: 'Cinzel', serif;}
+header h1 {display: block; margin: 40px auto; color: white; font-size: 400%; font-family: 'Cinzel', serif;
+    animation: hani 3s 1;}
 
-header h2 {display: block; color: white; margin: 40px auto; font-size: 300%;}
+header h2 {display: block; color: white; margin: 40px auto; font-size: 300%; animation: hani 4s 1;}
+
+@keyframes hani {
+
+    0% {opacity: 0;}
+    25% {opacity: .25;}
+    50% {opacity: .5;}
+    100% {opacity: 1;}
+}
 
 .herobutton {display: block; background-color: white; color: rgba(68, 6, 117, 0.8); text-transform: uppercase; text-decoration: none;
             border-radius: 15px; padding: 10px; margin: 10px  auto; transition-property: color, background-color; max-width: 250px; border: 2px solid #AB9E00;
-            font-weight: bolder;}
+            font-weight: bolder; transition: background-color 1s, color 1s;}
 
 .herobutton:hover {color: white; background-color: rgba(68, 6, 117, 0.8);} 
 
@@ -41,7 +50,9 @@ header h2 {display: block; color: white; margin: 40px auto; font-size: 300%;}
 .proj {font-size: 200%; width: 100%; padding: 10px 0; margin: auto; 
     background-color: rgba(68, 6, 117, 0.8); color: white; text-align: center;}
 
-.cardbody {display: flex; flex-direction: column; width: 300px; border: 2px solid grey; margin: 0; padding: 0; margin: 20px 0;}
+.cardbody {display: flex; flex-direction: column; width: 300px; border: 2px solid grey; margin: 0; padding: 0; margin: 20px 0; transition: border .5s}
+
+.cardbody:hover {border: 3px solid red;}
 
 .cardbody img {max-width: 300px; height: 246px; margin: 0;}
 
