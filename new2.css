@@ -39,8 +39,8 @@ header h2 {display: block; color: white; margin: 40px auto; font-size: 300%; ani
     100% {opacity: 1;}
 }
 
-.herobutton {display: block; background-color: white; color: rgba(68, 6, 117, 0.8); text-transform: uppercase; text-decoration: none;
-            border-radius: 15px; padding: 10px; margin: 10px  auto; transition-property: color, background-color; max-width: 250px; border: 2px solid #AB9E00;
+.herobutton {display: inline-block; background-color: white; color: rgba(68, 6, 117, 0.8); text-transform: uppercase; text-decoration: none;
+            border-radius: 15px; padding: 10px; margin: 10px 50px  auto; transition-property: color .4s, background-color .4s; max-width: 250px; border: 2px solid #AB9E00;
             font-weight: bolder; transition: background-color 1s, color 1s;}
 
 .herobutton:hover {color: white; background-color: rgba(68, 6, 117, 0.8);} 
