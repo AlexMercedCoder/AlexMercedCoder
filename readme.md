@@ -2,7 +2,7 @@
 ### 📧 contact@alexmerced.dev
 ### 🌐 linkedin.com/in/alexmerced
 ### 🌐 AlexMercedCoder.com / devNursery.com
-### ⌨ Also reachable at Discord/Stack communities at devNursery.com
+### ⌨ Also reachable at Discord/Slack communities at devNursery.com
 
 ## Introduction
 
@@ -16,6 +16,6 @@ My name is Alex Merced and I'm software developer. Currently a full stack develo
 
 ♦ **Backend**: Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework
 
-♦ **Database**: Mongo, Postgres
+♦ **Database**: Mongo, Postgres, SQLite3
 
 ♦ **DevOps:** Docker, VPS, CircleCI, jest
