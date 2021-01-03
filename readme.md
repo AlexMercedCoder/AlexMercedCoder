@@ -6,15 +6,15 @@
 
 ## Introduction
 
-My name is Alex Merced and I'm software developer. Currently a full stack developer for Crossfield Digital and Instructor at General Assembly. Feel free to contact me to consult or assist with your development project.
+My name is Alex Merced and I'm a software developer. Currently a full stack developer for Crossfield Digital and Instructor at General Assembly. Feel free to contact me to consult or assist with your development project.
 
 ## Skills
 
-♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Kotlin, Swift, C#, ReasonML, OCAML
+♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Rust
 
 ♦ **Frontend**: HTML, CSS, Web Components, React, Vue, Angular, Svelete, StencilJS
 
-♦ **Backend**: Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework
+♦ **Backend**: Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework, FastAPI, Echo
 
 ♦ **Database**: Mongo, Postgres, SQLite3
 
