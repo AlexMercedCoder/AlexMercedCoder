@@ -19,3 +19,6 @@ My name is Alex Merced and I'm a software developer. Currently a full stack deve
 ♦ **Database**: Mongo, Postgres, SQLite3
 
 ♦ **DevOps:** Docker, VPS, CircleCI, jest
+
+[![Alex Merced's github stats](https://github-readme-stats.vercel.app/api?username=alexmercedcoder)](https://github.com/anuraghazra/github-readme-stats)
+
