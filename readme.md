@@ -6,7 +6,7 @@
 
 ## Introduction
 
-My name is Alex Merced and I'm a software developer. Currently a full stack developer for Crossfield Digital and Instructor at General Assembly. Feel free to contact me to consult or assist with your development project.
+My name is Alex Merced and I'm a software developer. my current clients include CampusGaurd, ServiceLink, GenEd and others. I'm also an Instructor at General Assembly. Feel free to contact me to consult or assist with your development project.
 
 ## Skills
 
