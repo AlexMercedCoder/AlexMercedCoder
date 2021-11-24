@@ -12,11 +12,11 @@ My name is Alex Merced and I'm a software developer. my current clients include 
 
 ♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Rust
 
-♦ **Frontend**: HTML, CSS, Web Components, React, Vue, Angular, Svelete, StencilJS
+♦ **Frontend**: HTML, CSS, Web Components, React, Vue, Angular, Svelte, StencilJS, SolidJS
 
 ♦ **Backend**: Express, Koa, Polka, FoalTS, Buffalo, Django, Rails, Laravel, Spring, Serverless Framework, FastAPI, Echo
 
-♦ **Database**: Mongo, Postgres, SQLite3
+♦ **Database**: Mongo, Postgres, SQLite3, ArangoDB, Neo4J
 
 ♦ **DevOps:** Docker, VPS, CircleCI, jest
 
