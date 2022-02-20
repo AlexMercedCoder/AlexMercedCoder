@@ -6,11 +6,11 @@
 
 ## Introduction
 
-My name is Alex Merced and I'm a software developer. my current clients include CampusGaurd, ServiceLink, GenEd and others. I'm also an Instructor at General Assembly. Feel free to contact me to consult or assist with your development project.
+My name is Alex Merced and I'm currently a Developer Advocate for Dremio. I have worked with companies such as General Assembly, CampusGuard, ServiceLink, GenEd SYstems, Crossfield Digital and more. DevNursery.com is my personal project where I share education content with aspiring developers. I'm also the host of the Web Dev 101 and DataNation podcasts.
 
 ## Skills
 
-♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Rust
+♦ **Languages:** Javascript, Python, Ruby, PHP, GO, Ballerina, Java, Rust, Scala
 
 ♦ **Frontend**: HTML, CSS, Web Components, React, Vue, Angular, Svelte, StencilJS, SolidJS
 
@@ -18,7 +18,15 @@ My name is Alex Merced and I'm a software developer. my current clients include 
 
 ♦ **Database**: Mongo, Postgres, SQLite3, ArangoDB, Neo4J
 
-♦ **DevOps:** Docker, VPS, CircleCI, jest
+♦ **DevOps:** Docker, VPS, CircleCI, jest, AWS Glue, AWS Kinesis, AWS S3, AWS Lambda, Vercel/Netlify Functions
+
+♦ **Data Analytics/Engineering:** Dremio, Spark
+
+♦ **Headless CMS:** Contentful, AgilityCMS, GraphCMS
+
+♦ **Meta Frameworks/Static Site Generators:** NextJS/Remix/Gatsby, Nuxt, SvelteKit, ApolloJS
+
+♦ **API Formats:** REST, GraphQL, RPC/gRPC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercedcoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
