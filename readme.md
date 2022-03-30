@@ -1,7 +1,11 @@
 # 👨‍🦱Alex Merced
+
 ### 📧 contact@alexmerced.dev
+
 ### 🌐 linkedin.com/in/alexmerced
+
 ### 🌐 AlexMercedCoder.com / devNursery.com
+
 ### ⌨ Also reachable at Discord/Slack communities at devNursery.com
 
 ## Introduction
@@ -31,5 +35,3 @@ My name is Alex Merced and I'm currently a Developer Advocate for Dremio. I have
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmercedcoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Alex Merced's github stats](https://github-readme-stats.vercel.app/api?username=alexmercedcoder&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
