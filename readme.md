@@ -1,7 +1,7 @@
 # 👨‍🦱Alex Merced
 ### 📧 contact@alexmerced.dev
 ### 🌐 linkedin.com/in/alexmerced
-### 🌐 AlexMercedCoder.com / devNursery.com
+### 🌐 AlexMerced.com / AlexMercedCoder.dev / datalakehousehub.com / devNursery.com
 ### ⌨ Also reachable at Discord/Slack communities at devNursery.com
 
 ## Introduction
