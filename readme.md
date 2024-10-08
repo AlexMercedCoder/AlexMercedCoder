@@ -3,14 +3,12 @@
 ### 📧 contact@alexmerced.dev
 
 ### 🌐 linkedin.com/in/alexmerced
-
-### 🌐 AlexMercedCoder.com / devNursery.com
-
+### 🌐 AlexMerced.com / AlexMercedCoder.dev / datalakehousehub.com / devNursery.com
 ### ⌨ Also reachable at Discord/Slack communities at devNursery.com
 
 ## Introduction
 
-My name is Alex Merced and I'm currently a Developer Advocate for Dremio. I have worked with companies such as General Assembly, CampusGuard, ServiceLink, GenEd SYstems, Crossfield Digital and more. DevNursery.com is my personal project where I share education content with aspiring developers. I'm also the host of the Web Dev 101 and DataNation podcasts.
+My name is Alex Merced and I'm currently a Senior Tech Evangelist for Dremio and the co-author of O'Reilly's "Apache Iceberg: The Definitive Guide". I have worked with companies such as General Assembly, CampusGuard, ServiceLink, GenEd SYstems, Crossfield Digital and more. DevNursery.com is my personal project where I share education content with aspiring developers. I'm also the host of the Web Dev 101 and DataNation podcasts.
 
 ## Skills
 
