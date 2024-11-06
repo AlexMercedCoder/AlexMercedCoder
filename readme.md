@@ -11,6 +11,7 @@ Alex Merced is a senior technical evangelist at Dremio with experience as a deve
 * ✉️  You can contact me at [dev@alexmerced.com](mailto:dev@alexmerced.com)
 * 🧠  I'm learning DataOps
 * 🤝  I'm open to collaborating on Data Lakehouse Education
+* 🦋 Follow me on [BlueSky](https://bsky.app/profile/alextalksdatalakehouses.fyi)
 
 <a href="https://www.github.com/alexmercedcoder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alexmercedcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/amdatalakehouse" target="_blank" rel="noreferrer"><img
