@@ -17,7 +17,7 @@ Alex Merced is a senior technical evangelist at Dremio with experience as a deve
 src="https://img.shields.io/github/followers/alexmercedcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/amdatalakehouse" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/amdatalakehouse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<a href="https://data-folks.masto.host/@alexmerced" target="_blank" rel="noreferrer"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109296904995536184?domain=https://data-folks.masto.host&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
+<a href="https://me.dm/@alexmerced" target="_blank" rel="noreferrer"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109296904995536184?domain=https://me.dm&style=for-the-badge&color=0891b2&labelColor=1c1917"></a>
 
 
 ### Skills
